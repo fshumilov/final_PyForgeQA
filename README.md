@@ -3,7 +3,7 @@ Automation test for the project
 
 Main goal: To create valuable automation tests with greate coverage
 
-Main page of the project: https://quantori.atlassian.net/wiki/spaces/SFM/overview?homepageId=2703229307
+Main page of the project: https://quantori.atlassian.net/wiki/spaces/SFM/overview?homepageId=2703229307 /n
 Requirements: https://quantori.atlassian.net/wiki/spaces/SFM/pages/2723184782/2.+Requirements
 Datasets: 
   for testing - https://quantori.atlassian.net/wiki/spaces/SFM/pages/2881290274/Some+data+for+testing
