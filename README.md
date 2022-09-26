@@ -1,5 +1,4 @@
-## final_PyForgeQA
-Automation test for the project
+# final_PyForgeQA
 
 Main goal: 
 To create valuable automation tests with greate coverage
