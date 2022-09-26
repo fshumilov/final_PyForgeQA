@@ -1,4 +1,4 @@
-# final_PyForgeQA
+## final_PyForgeQA
 Automation test for the project
 
 Main goal: To create valuable automation tests with greate coverage
@@ -6,6 +6,8 @@ Main goal: To create valuable automation tests with greate coverage
 Main page of the project: https://quantori.atlassian.net/wiki/spaces/SFM/overview?homepageId=2703229307
 
 Environment for testing:  https://qa.ddso-spot.quantori.com/
+
+API: https://quantori.atlassian.net/wiki/spaces/SFM/pages/2967142539/User+Policies
 
 Requirements: https://quantori.atlassian.net/wiki/spaces/SFM/pages/2723184782/2.+Requirements
 
