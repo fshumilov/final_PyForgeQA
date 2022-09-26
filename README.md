@@ -5,6 +5,8 @@ Main goal: To create valuable automation tests with greate coverage
 
 Main page of the project: https://quantori.atlassian.net/wiki/spaces/SFM/overview?homepageId=2703229307
 
+Environment for testing:  https://qa.ddso-spot.quantori.com/
+
 Requirements: https://quantori.atlassian.net/wiki/spaces/SFM/pages/2723184782/2.+Requirements
 
 Datasets: 
