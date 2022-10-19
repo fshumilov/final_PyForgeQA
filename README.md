@@ -7,7 +7,7 @@ Main page of the project:
 https://quantori.atlassian.net/wiki/spaces/SFM/overview?homepageId=2703229307
 
 Environment for testing:  
-https://qa.ddso-spot.quantori.com/
+https://dev.ddso-spot.quantori.com/
 
 API: 
 https://quantori.atlassian.net/wiki/spaces/SFM/pages/2967142539/User+Policies
